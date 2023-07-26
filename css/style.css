@@ -1,5 +1,8 @@
 body {
   margin: 5vw;
+  background: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: none;
 }
 
 a {
