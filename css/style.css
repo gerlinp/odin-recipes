@@ -1,0 +1,16 @@
+body {
+  margin: 5vw;
+}
+
+a {
+  color: inherit;
+}
+a:visited {
+  color: inherit;
+}
+
+.recipe-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
